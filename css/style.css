@@ -56,7 +56,7 @@ nav a:hover{
 link to the exact top of the page.*/
 .skip a:focus{
   position:absolute;
-  top:0px
+  top:-40px
 }
 
 /*Your code here*/
